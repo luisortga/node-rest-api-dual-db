@@ -224,7 +224,7 @@ Example request body:
 
 Example of inserting a movie through the REST API:
 
-```{=html}
+
 <p align="center">
 ```
 `<a href="https://imgur.com/a/jvSMxFC">`{=html} `<img
