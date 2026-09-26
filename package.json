@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start:local": "node --watch server-with-local.js",
+    "start:mysql": "node --watch server-with-mysql.js",
+    "start:mongo": "node --watch server-with-mongo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,26 +15,26 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "^11.8.0",
+      "version": "11.8.0",
       "onFail": "download"
     }
   },
   "type": "module",
   "dependencies": {
     "cors": "2.8.6",
-    "dotenv": "^18.0.4",
+    "dotenv": "18.0.4",
     "express": "5.2.1",
-    "helmet": "^8.3.0",
-    "mongodb": "^7.6.0",
-    "morgan": "^1.12.1",
-    "mysql2": "^3.24.4",
-    "servor": "^4.0.2",
+    "helmet": "8.3.0",
+    "mongodb": "7.6.0",
+    "morgan": "1.12.1",
+    "mysql2": "3.24.4",
+    "servor": "4.0.2",
     "zod": "4.6.5"
   },
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
-    "eslint": "^10.11.0",
-    "globals": "^17.12.0",
-    "standard": "^17.1.2"
+    "@eslint/js": "10.0.1",
+    "eslint": "10.11.0",
+    "globals": "17.12.0",
+    "standard": "17.1.2"
   }
 }
