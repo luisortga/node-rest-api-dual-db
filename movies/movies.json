@@ -1,0 +1,112 @@
+[
+  {
+    "id": "11b7dfb0-6f7f-4770-8e12-4cf30b910e5d",
+    "title": "The Batman",
+    "year": 2022,
+    "director": "Matt Reeves",
+    "duration": 176,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 7.8
+  },
+  {
+    "id": "f5a7e6b8-68e3-4f9e-bd71-e40fc928f6e2",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director": "Anthony Russo, Joe Russo",
+    "duration": 149,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.4
+  },
+  {
+    "id": "e9b2f671-8c43-4a11-b0db-6f176cfab4a2",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": "Anthony Russo, Joe Russo",
+    "duration": 181,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 8.4
+  },
+  {
+    "id": "55c478a2-23c8-47a3-839f-1bc96df8f5f6",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "year": 2015,
+    "director": "J.J. Abrams",
+    "duration": 135,
+    "poster": "https://moviepostermexico.com/cdn/shop/products/star_wars_episode_vii__the_force_awakens_ver3_xxlg_1458x.jpg?v=1606321827",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "rate": 7.8
+  },
+  {
+    "id": "7b68e983-5c02-4fc4-9a8c-a1d29ab0b675",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "duration": 150,
+    "poster": "https://ih1.redbubble.net/image.4999363857.8315/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg",
+    "genre": ["Biography", "Drama"],
+    "rate": 8.3
+  },
+  {
+    "id": "834c91be-2019-4822-ba3a-5ccfc56b1028",
+    "title": "Gran Turismo",
+    "year": 2023,
+    "director": "Neill Blomkamp",
+    "duration": 134,
+    "poster": "https://www.sonypictures.com.mx/sites/mexico/files/2023-10/Key-Art_1400x2100_Gran-Turismo_Mx.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 7.4
+  },
+  {
+    "id": "a90fbb0d-58b4-4b52-95f0-6bdf91684fa9",
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "director": "Justin Lin",
+    "duration": 104,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "rate": 6.0
+  },
+  {
+    "id": "d1f3e8b2-4c5a-4f9e-9b6c-1e2f3a4b5c6d",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "duration": 148,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.8
+  },
+  {
+    "id": "e1f4e9b2-5c6b-4f0e-8b7d-2e3f4a5b6c7d",
+    "title": "John Wick",
+    "year": 2014,
+    "director": "Bryan Singer",
+    "duration": 101,
+    "poster": "https://moviepostermexico.com/cdn/shop/products/john_wick_ver3_xxlg_1024x1024@2x.jpg?v=1576003420",
+    "genre": ["Action", "Crime", "Thriller"],
+    "rate": 7.4
+  },
+  {
+    "id": "f2e3d4c5-6b7a-4c8d-9e0f-1a2b3c4d5e6f",
+    "title": "John Wick Parabellum",
+    "year": 2019,
+    "director": "Chad Stahelski",
+    "duration": 131,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNWFlZjEtM2U0NS00ZWU5LTk1M2EtZmQxNWFiZjk0MGM5XkEyXkFqcGc@._V1_.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "rate": 7.4
+  },
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "title": "John Wick 4",
+    "year": 2023,
+    "director": "Chad Stahelski",
+    "duration": 169,
+    "poster": "https://i.redd.it/uarr1n19573b1.jpg",
+    "genre": ["Action", "Crime", "Thriller"],
+    "rate": 8.0
+  }
+]

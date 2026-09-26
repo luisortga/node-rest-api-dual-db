@@ -1,0 +1,5 @@
+.prettierrc 
+**/node_modules
+.eslintrc.json
+.env
+*.http
