@@ -6,7 +6,7 @@
   "scripts": {
     "start:local": "node --watch server-with-local.js",
     "start:mysql": "node --watch server-with-mysql.js",
-    "start:mongo": "node --watch server-with-mongo.js",
+    "start:mongodb": "node --watch server-with-mongodb.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
