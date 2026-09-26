@@ -33,7 +33,7 @@ with interchangeable MySQL and MongoDB persistence.</strong>
    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="58" alt="MongoDB">
    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="58" alt="pnpm">`{=html}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="58" alt="pnpm">
    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="58" alt="JavaScript">
 
@@ -686,7 +686,7 @@ Developed by **Luis Ortega**.
 
 
 <p align="center">
-```
+
 <a href="https://github.com/luisortga">
 <img src="https://img.shields.io/badge/GitHub-luisortga-181717?logo=github&logoColor=white" alt="GitHub">
 </a>
