@@ -4,8 +4,8 @@ const ACCEPTED_ORIGINS = [
   'http://localhost:8080',
   'http://localhost:8081',
   'http://localhost:3000',
-  'https://reflected-movies-static.vercel.app/',
-  'https://f1-auth-django.onrender.com/',
+  'https://reflected-movies-static.vercel.app',
+  'https://f1-auth-django.onrender.com',
 ]
 
 export const corsMiddleware = ({ acceptedOrigins = ACCEPTED_ORIGINS } = {}) =>
